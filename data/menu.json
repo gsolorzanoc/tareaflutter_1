@@ -1,0 +1,10 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" :[
+        {
+            "ruta" : "page",
+            "icon" : "add_alert",
+            "texto" : "Principal"
+        }
+    ]
+}
